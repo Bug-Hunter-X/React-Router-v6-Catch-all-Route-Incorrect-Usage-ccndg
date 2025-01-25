@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Router v6 concerning catch-all routes.  The `/*` route, intended to handle 404 errors, is incorrectly placed such that it overrides all other routes.  The solution shows the correct placement of the catch-all route to ensure proper functionality.
